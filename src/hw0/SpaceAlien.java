@@ -21,6 +21,7 @@ public class SpaceAlien {
         this.distanceFromEarth = distanceFromEarth;
     }
 
+
     public void doGreeting() {
         System.out.println("Greetings form planet " + homePlanet + ", "
                 + distanceFromEarth + " light years away");
